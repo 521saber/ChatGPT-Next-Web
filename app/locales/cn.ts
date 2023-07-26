@@ -257,7 +257,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "Saber,遵从召唤而来,Master,请下指示.从此吾剑将随汝同在,汝之命运将与吾共存,于此,契约完成",
+    BotHello: "Saber,遵从召唤而来,Master,请下指示.从此吾剑将随汝同在,汝之命运将与吾共存!",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
